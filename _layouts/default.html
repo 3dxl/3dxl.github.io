@@ -52,14 +52,19 @@
       </div>
       <div class="col-md-4 side-bar">
         <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts limit:5 %}
           <li class="media">
             <a class="pull-left" href="{{ post.url }}">
               <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail}}"/>
             </a>
             <div class="media-body">
-              <span>{{ post.date | date_to_string }}</span>
+              <span>
+                {{ post.date | date_to_string }}{% for category in post.categories %} {{category}} {% endfor %}
+              </span>
               <h4 class="media-heading">{{ post.title }}</h4>
+              <span>
+                {% for author in post.authors %} {{author}} {% endfor %}
+              </span>
             </div>
           </li>
         {% endfor %}
@@ -71,7 +76,7 @@
 
   <footer class="docs-footer" role="contentinfo">
     <div class="container">
-      <p>Designed and built in Groningen - <a href="mailto:info@3dxl.nl">info@3dxl.nl</a> - &copy;{{ site.time | date:"%Y" }} Arnoud Herder & Sjoerd de Jong</p>
+      <p>Designed and built in Groningen, the Netherlands - <a href="mailto:info@3dxl.nl">info@3dxl.nl</a> - &copy;{{ site.time | date:"%Y" }} Arnoud Herder & Sjoerd de Jong</p>
     </div>
   </footer>
 
