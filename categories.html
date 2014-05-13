@@ -14,7 +14,7 @@ title: 3DXL - Categories
           <a href="{{ post.url }}">
             <img style="width: 96px" src="{{ post.thumbnail }}"/>
           </a>
-        {% elsif %}
+        {% else %}
           <span style="width: 96px">&nbsp;</span>
         {% endif %}
         {{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a>
