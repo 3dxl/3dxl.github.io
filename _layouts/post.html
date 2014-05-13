@@ -3,11 +3,11 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
-<p class="meta">{{ page.date | date_to_string }}{% for category in page.categories %}, {{category}}{% endfor %}</p>
-
-<ul class="meta">{% for author in page.authors %}
-  <li>{{author}}</li>
-{% endfor %}</ul>
+<p class="meta">
+  {{ page.date | date_to_string }}
+  {% for category in page.categories %}, {{category}}{% endfor %}
+  {% for author in page.authors %} <strong>{{author}}</strong>{% endfor %}
+</p>
 
 <div class="post">
 {{ content }}
