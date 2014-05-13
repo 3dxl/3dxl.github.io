@@ -6,8 +6,7 @@ categories:
   - kast
 authors:
   - Sjoerd de Jong
-tags:
-  - frontpage
+gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/04_image008.midi.jpg"
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/00_1.mini.png"
 
 ---
