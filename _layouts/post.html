@@ -12,3 +12,13 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+
+{% if post.previous or post.next %}
+  <hr/>
+  {% if post.previous %}
+    <a class="pull-right" href="{{ post.next.url }}">{{ post.next.title }}</a>
+  {% endif %}
+  {% if post.previous %}
+    <a class="pull-left" href="{{ post.previous.url }}">{{ post.previous.title }}</a>
+  {% endif %}
+{% endif %}
