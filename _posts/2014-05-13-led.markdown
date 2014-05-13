@@ -1,0 +1,15 @@
+---
+layout: post
+published: true
+title: Nieuwe LED bestelling
+categories:
+  - led
+authors:
+  - Sjoerd de Jong
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/03_20140513_112553.mini.jpg"
+
+---
+
+![image](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/03_20140513_112553.midi.jpg)
+
+Pret!
