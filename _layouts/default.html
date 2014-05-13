@@ -37,7 +37,14 @@
               <li><a href="#">Full list of all projects</a></li>
             </ul>
           </li>
-          <li><a href="#">Timeline</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Timeline <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              {% for post in site.categories.timeline %}
+                <li><a href="{{ post.url }}">{{ post.date | date_to_string }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
           <li><a href="#">About</a></li>
         </ul>
       </div>
@@ -54,7 +61,7 @@
         <ul>
         {% for post in site.posts limit:5 %}
           <li class="media">
-            {% if post.thumbnail != '' %}
+            {% if post.thumbnail %}
             <a class="pull-left" href="{{ post.url }}">
               <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail }}"/>
             </a>
@@ -62,10 +69,9 @@
             <div class="media-body">
               <h4 class="media-heading">{{ post.title }}</h4>
               <p class="meta">
-                {{ post.date | date_to_string }} -
+                {{ post.date | date_to_string }}<br/>
                 {% for author in post.authors %} {{author}}{% endfor %}
               </p>
-              {{ post.content | truncatewords:20 | strip_html }}
             </div>
           </li>
         {% endfor %}
