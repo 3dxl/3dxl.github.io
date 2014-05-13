@@ -55,12 +55,11 @@
         {% for post in site.posts %}
           <li class="media">
             <a class="pull-left" href="{{ post.url }}">
-              <img class="media-object img-thumbnail img-responsive" src="/photos/IMG_20140410_230741650.thumb.jpg"/>
+              <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail}}"/>
             </a>
             <div class="media-body">
-              <h4 class="media-heading">{{ post.title }}</h4>
               <span>{{ post.date | date_to_string }}</span>
-              Imagine what happens when LED lighting is installed...
+              <h4 class="media-heading">{{ post.title }}</h4>
             </div>
           </li>
         {% endfor %}
