@@ -63,7 +63,7 @@ a:visited { color: #808; }
   border-top: 1px solid #e5e5e5;
 }
 
-.media img {
+.side-bar img {
   max-width: 96px;
 }
 
@@ -73,6 +73,7 @@ a:visited { color: #808; }
 }
 
 .main-bar .gallery .slide {
+  display: block;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
