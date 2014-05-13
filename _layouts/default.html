@@ -58,12 +58,10 @@
               <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail}}"/>
             </a>
             <div class="media-body">
-              <span>
-                {{ post.date | date_to_string }}{% for category in post.categories %} {{category}} {% endfor %}
-              </span>
               <h4 class="media-heading">{{ post.title }}</h4>
               <span>
-                {% for author in post.authors %} {{author}} {% endfor %}
+                {{ post.date | date_to_string }} -
+                {% for author in post.authors %} {{author}}{% endfor %}
               </span>
             </div>
           </li>

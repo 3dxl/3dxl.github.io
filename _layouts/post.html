@@ -5,8 +5,8 @@ layout: default
 
 <p class="meta">
   {{ page.date | date_to_string }}
-  {% for author in page.authors %} <i>{{author}}</i>{% endfor %}
-  {% for category in page.categories %} {{category}}{% endfor %}
+  {% for author in page.authors %}, <i>{{author}}</i>{% endfor %}
+  {% for category in page.categories %}, {{category}}{% endfor %}
 </p>
 
 <div class="post">
