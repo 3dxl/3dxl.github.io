@@ -7,12 +7,14 @@ title: 3DXL
   <div class="slide" style="background-image: url(/photos/IMG_20140228_143132336_HDR.jpg);"></div>
   {% for post in site.posts %}
     {% if post.gallery %}
-      <div class="slide" style="background-image: url({{ post.gallery }});"></div>
+      <a href="{{ post.url }}"><div class="slide" style="background-image: url({{ post.gallery }});"></div></a>
     {% endif %}
   {% endfor %}
   <div class="slide" style="background-image: url(/photos/IMG_20140228_125820302_HDR.jpg);"></div>
   <div class="slide" style="background-image: url(/photos/IMG_20140420_132724281.jpg);"></div>
 </div>
+
+<hr/>
 
 <div id="home">
   <h1>Maximized 3d shaping</h1>
