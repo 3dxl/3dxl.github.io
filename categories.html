@@ -6,7 +6,7 @@ title: 3DXL - Categories
 {% for category in site.categories %}
   {% assign categoryName = category[0] %}
   {% assign posts = category[1] %}
-  <h2><a name="{{ categoryName }}">{{ categoryName }} ({{ posts.length }})</a></h2>
+  <h2><a name="{{ categoryName }}">{{ categoryName }}</a></h2>
   <ul>
     {% for post in posts %}
       <li>{{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
