@@ -17,3 +17,8 @@ Gebruikte materialen:
 
 - gevingerlast eiken voor planken (CNC frezen)
 - 10mm aluminium plaat voor staanders (watergesneden)
+
+---
+
+## Eindresultaat
+![image](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/04_image008.midi.jpg)
