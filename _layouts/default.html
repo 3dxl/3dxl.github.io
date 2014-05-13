@@ -54,15 +54,18 @@
         <ul>
         {% for post in site.posts limit:5 %}
           <li class="media">
+            {% if post.thumbnail != '' %}
             <a class="pull-left" href="{{ post.url }}">
-              <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail}}"/>
+              <img class="media-object img-thumbnail img-responsive" src="{{ post.thumbnail }}"/>
             </a>
+            {% endif %}
             <div class="media-body">
               <h4 class="media-heading">{{ post.title }}</h4>
               <span>
                 {{ post.date | date_to_string }} -
                 {% for author in post.authors %} {{author}}{% endfor %}
               </span>
+              {{ post.content | truncatewords:20 }}
             </div>
           </li>
         {% endfor %}
