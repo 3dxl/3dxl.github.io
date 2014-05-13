@@ -74,10 +74,10 @@ a:visited { color: #808; }
 
 .main-bar .gallery .slide {
   display: block;
-  background-size: contain;
+  background-size: cover; /*contain;*/
   background-repeat: no-repeat;
   background-position: center;
-  height: 400px;
+  height: 560px;
 }
 
 .meta {
