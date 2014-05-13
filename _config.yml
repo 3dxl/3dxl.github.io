@@ -1,3 +1,5 @@
 name: 3DXL
-markdown: redcarpet
+markdown: kramdown
 pygments: false
+gems:
+  - jekyll-sitemap
