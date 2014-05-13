@@ -1,0 +1,33 @@
+---
+layout: default
+title: 3DXL
+---
+
+<style>
+  .gallery .slide {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+  }
+  .gallery .slide1 { background-image: url(/photos/IMG_20140410_230741650.jpg); }
+  .gallery .slide2 { background-image: url(/photos/IMG_20140228_143132336_HDR.jpg); }
+  .gallery .slide3 { background-image: url(/photos/IMG_20140228_125820302_HDR.jpg); }
+  .gallery .slide4 { background-image: url(/photos/IMG_20140420_132724281.jpg); }
+</style>
+
+<div class="gallery">
+  <div class="slide slide1"></div>
+  <div class="slide slide2"></div>
+  <div class="slide slide3"></div>
+  <div class="slide slide4"></div>
+</div>
+
+<div id="home">
+  <h1>Maximized 3d shaping</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

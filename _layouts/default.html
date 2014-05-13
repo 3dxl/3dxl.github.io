@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+
+<body>
+  <header class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">{{ site.name }}</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Toilet blob</a></li>
+              <li><a href="#">Room divider</a></li>
+              <li class="divider"></li>
+              <li><a href="#">Full list of all projects</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Timeline</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 main-bar">
+        {{ content }}
+      </div>
+      <div class="col-md-4 side-bar">
+        <ul>
+        {% for post in site.posts %}
+          <li class="media">
+            <a class="pull-left" href="{{ post.url }}">
+              <img class="media-object img-thumbnail img-responsive" src="/photos/IMG_20140410_230741650.thumb.jpg"/>
+            </a>
+            <div class="media-body">
+              <h4 class="media-heading">{{ post.title }}</h4>
+              <span>{{ post.date | date_to_string }}</span>
+              Imagine what happens when LED lighting is installed...
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <footer class="docs-footer" role="contentinfo">
+    <div class="container">
+      <p>Designed and built in Groningen - <a href="mailto:info@3dxl.nl">info@3dxl.nl</a> - &copy;{{ site.time | date:"%Y" }} Arnoud Herder & Sjoerd de Jong</p>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/slick/slick.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.gallery').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 4000,
+        infinite: true,
+        // fade: true
+      });
+    });
+  </script>
+</body>
+</html>

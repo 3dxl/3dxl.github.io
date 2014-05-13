@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Stardos+Stencil:700);
+
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  padding-top: 50px;
+  /*background-color: #FFF;*/
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+*/
+h1 { margin-bottom: 1em; }
+
+p { margin: 1em 0; }
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+.navbar-brand {
+  font-family: 'Stardos Stencil';
+  font-size: 50px;
+  line-height: 30px;
+}
+
+.main-bar, .side-bar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.side-bar {
+  background: #eee;
+}
+
+.side-bar .media-heading {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.docs-footer {
+  padding-top: 10px;
+  margin-top: 30px;
+  color: #777;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+}
+
+.media img {
+  height: 128px;
+}
+
+.main-bar img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.main-bar .gallery img {
+  margin: 0 auto;
+}
+
+.main-bar .gallery img {
+  height: 400px;
+  max-width: 100%;
+}
