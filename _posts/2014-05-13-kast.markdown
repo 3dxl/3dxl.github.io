@@ -10,10 +10,10 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 
 ---
 
-## Room divider
 ![00_1.midi.png](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/00_1.midi.png)
 
 
 Gebruikte materialen:
+
 - gevingerlast eiken voor planken (CNC frezen)
 - 10mm aluminium plaat voor staanders (watergesneden)
