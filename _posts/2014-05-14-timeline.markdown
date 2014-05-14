@@ -6,6 +6,7 @@ categories:
   - timeline
 authors:
   - Sjoerd de Jong
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/03_20140514_125218_resized.midi.jpg"
 
 ---
 
@@ -18,3 +19,10 @@ test
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/02_sample3.midi.jpeg)
 
 Als het werkt mag het bloemetje uit
+
+---
+
+## 12:53 Foto
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/03_20140514_125218_resized.midi.jpg)
+
+Van mobiel
