@@ -11,8 +11,6 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 
 ---
 
-## {% page.path %}
-
 ## 12:16 test
 test
 
