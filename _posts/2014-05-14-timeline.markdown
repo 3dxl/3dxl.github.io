@@ -6,6 +6,7 @@ categories:
   - timeline
 authors:
   - Sjoerd de Jong
+  - Sjoerd en Marieke
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/03_20140514_125218_resized.midi.jpg"
 
 ---
@@ -26,3 +27,8 @@ Als het werkt mag het bloemetje uit
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/03_20140514_125218_resized.midi.jpg)
 
 Van mobiel
+
+---
+
+## 14:41 Pod running on server
+A trusty server now runs all stuff
