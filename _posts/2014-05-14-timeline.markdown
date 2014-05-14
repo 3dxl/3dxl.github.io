@@ -6,8 +6,14 @@ categories:
   - timeline
 authors:
   - Sjoerd de Jong
+thumbnail: photos/2014-05-14/00_foto.midi.jpeg
 
 ---
 
 ## 12:16 test
 test
+
+---
+
+## 12:20 Klok
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-14/00_foto.midi.jpeg)
