@@ -32,3 +32,8 @@ Van mobiel
 
 ## 14:41 Pod running on server
 A trusty server now runs all stuff
+
+---
+
+## 15:01 test met binary
+[patch.txt](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/binaries/2014-05-14/patch.txt)
