@@ -1,0 +1,16 @@
+---
+layout: post
+published: true
+title: Timeline for Monday
+categories:
+  - timeline
+authors:
+  - Sjoerd de Jong
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-19/00_20140519_125516.mini.jpg"
+
+---
+
+## 13:00 Items arrived
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-19/00_20140519_125516.midi.jpg)
+
+144 pixels per meter!
