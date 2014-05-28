@@ -80,3 +80,12 @@ Pilot project for free form architectural structures with plaster finish
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/30_imgp0432.midi.jpg)
 
 Fibreglass speaker on a polished granito food. The moulds for both the foot and casing were cnc cut of foam 		 	   		  
+
+---
+
+## Prototype of a lamp for the Drents Museum in Assen
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/31_drents museum lamp.midi.png)
+
+The lamp is cast of a polymer concrete and lit with an LED changes between the colors of the museums logo
+
+ 		 	   		  
