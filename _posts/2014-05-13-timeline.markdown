@@ -7,7 +7,6 @@ categories:
 authors:
   - Sjoerd de Jong
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/05_20140513_121704.mini.jpg"
-gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-13/06_20140513_155404.midi.jpg"
 
 ---
 
