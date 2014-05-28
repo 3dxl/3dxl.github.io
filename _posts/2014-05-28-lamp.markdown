@@ -10,10 +10,10 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 
 ---
 
+Lamp cast of polymer concrete lit with an LED that changes between the colors of the museums logo
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/32_drents museum lamp.midi.png)
 
-
-Lamp cast of polymer concrete lit with an LED that changes between the colors of the museums logo
 
 From: arnoudherder@hotmail.com
 To: website@website.3dxl.nl
