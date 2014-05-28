@@ -12,7 +12,7 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 
 ## 21:44 FOAM LOO
 
-Pilot project for free form architectural structures with plaster finish
+Pilot project for architectural free form foam structures with reinforced plaster finish
 
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/00_img_20140524_162027770.midi.jpg)
