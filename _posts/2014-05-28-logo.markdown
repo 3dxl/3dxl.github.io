@@ -11,7 +11,11 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 ---
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/46_img_3737.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/47_img_3736.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/48_img_3719.midi.jpg)
 
 
@@ -20,16 +24,6 @@ From: arnoudherder@hotmail.com
 To: timeline@website.3dxl.nl
 Subject: Drents Museum Logo
 Date: Wed, 28 May 2014 22:01:58 +0200
-
-
-
-
-
-
-From: arnoudherder@hotmail.com
-To: website@3dxl.nl
-Subject: Drents Museum Logo
-Date: Wed, 28 May 2014 21:54:47 +0200
 
 
 
