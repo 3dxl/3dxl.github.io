@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "FW: Art Today"
+title: "TodaysArt"
 categories:
   - todaysart
 authors:
@@ -11,9 +11,17 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 ---
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/41_so you think you can shape  01 small.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/42_so you think you can shape 03 small.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/43_so you think you can shape 04 small.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/44_constr.midi.png)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/45_nesting plot met nummers.midi.png)
 
 
