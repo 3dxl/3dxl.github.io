@@ -7,8 +7,10 @@ categories:
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/34_img_20140524_162027770.mini.jpg"
+gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/34_img_20140524_162027770.midi.jpg"
 
 ---
+Pilot project for architectural free form foam structures with reinforced plaster finish 		 	   		   		 	   		   		 	   		  
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/34_img_20140524_162027770.midi.jpg)
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/35_img_20140525_204622860.midi.jpg)
@@ -24,18 +26,3 @@ From: arnoudherder@hotmail.com
 To: website@website.3dxl.nl
 Subject: FOAM LOO
 Date: Wed, 28 May 2014 22:14:02 +0200
-
-
-
-
-
-
-From: arnoudherder@hotmail.com
-To: timeline@website.3dxl.nl
-Subject: FOAM LOO
-Date: Wed, 28 May 2014 21:44:30 +0200
-
-
-
-
-Pilot project for free form architectural structures with plaster finish 		 	   		   		 	   		   		 	   		  
