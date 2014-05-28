@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "FW: Drents Museum Logo"
+title: "Drents Museum Logo"
 categories:
   - website
 authors:
@@ -11,7 +11,11 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 ---
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/15_img_3737.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/16_img_3736.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/17_img_3719.midi.jpg)
 
 
