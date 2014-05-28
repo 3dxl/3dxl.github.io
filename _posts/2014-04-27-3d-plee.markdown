@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3d plee - a small place in heaven!"
-categories: polystyrene
+title: "foam loo"
+categories: architectural foam
 published: true
 ---
 
