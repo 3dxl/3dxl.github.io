@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: Foam Grid
+categories:
+  - foam_grid
+authors:
+  - Arnoud Herder
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/52_img_3101.mini.jpg"
+
+---
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/52_img_3101.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/53_img_3100.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/54_img_3102.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/55_img_3103.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/56_z002.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/57_z003.midi.jpg)
+
+
+ 		 	   		  
