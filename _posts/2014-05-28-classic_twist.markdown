@@ -9,7 +9,7 @@ authors:
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/49_imgp0246.mini.jpg"
 
 ---
-Twisted foam sculpture with classic profiling 		 	   		  
+Twisted foam sculpture with classical profiling 		 	   		  
 
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/49_imgp0246.midi.jpg)
