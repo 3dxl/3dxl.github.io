@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Foam Grid
 categories:
-  - foam_grid
+  - foam grid
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/52_img_3101.mini.jpg"
