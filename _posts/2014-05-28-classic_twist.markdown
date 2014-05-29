@@ -19,5 +19,3 @@ Twisted foam sculpture with classic profiling
 
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/51_imgp0229.midi.jpg)
-
-Twisted foam sculpture with classic profiling 		 	   		  
