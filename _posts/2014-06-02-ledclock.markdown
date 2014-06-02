@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+title: !<tag:yaml.org,2002:js/undefined> ""
+categories:
+  - ledclock
+authors:
+  - Sjoerd de Jong
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-02/00_img-20131103-wa0004.mini.jpg"
+
+---
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-02/00_img-20131103-wa0004.midi.jpg)
