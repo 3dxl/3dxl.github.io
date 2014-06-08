@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: Office Unit under construction
+categories:
+  - office
+authors:
+  - Arnoud Herder
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/00_img_20140302_140805670_hdr.mini.jpg"
+
+---
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/00_img_20140302_140805670_hdr.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/01_img_20140228_124934081.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/02_1.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/03_img_20140228_175724343.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/04_img_20140608_181504759_hdr.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/05_img_20140301_164935780.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/06_img_20140309_145338686.midi.jpg)
+
+The construction of our foam grid office unit has started! 		 	   		  
