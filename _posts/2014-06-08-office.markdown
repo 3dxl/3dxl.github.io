@@ -9,7 +9,7 @@ authors:
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/02_1.midi.jpg"
 
 ---
-The construction of an office unit made of an free form foam grid has started! 		
+The construction of an free form office unit made of a foam grid has started! 		
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/02_1.midi.jpg)
 
