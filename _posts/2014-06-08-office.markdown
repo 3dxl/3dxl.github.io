@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Office Unit under construction
+title: Office Unit Under Construction
 categories:
   - office
 authors:
