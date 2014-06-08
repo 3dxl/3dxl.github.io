@@ -6,7 +6,7 @@ categories:
   - office
 authors:
   - Arnoud Herder
-thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/00_img_20140302_140805670_hdr.mini.jpg"
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-08/02_1.midi.jpg"
 
 ---
 The construction of our foam grid office unit has started! 		
