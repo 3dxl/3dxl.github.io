@@ -6,7 +6,7 @@ categories:
   - timeline
 authors:
   - Arnoud Herder
-thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/00_2.mini.jpg"
+thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/06_img_20140614_231858078.midi.jpg"
 
 ---
 
