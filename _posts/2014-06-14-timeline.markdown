@@ -11,14 +11,21 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 ---
 
 ## 23:57 Plastered polygon mesh
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/00_2.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/01_wireframe.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/02_img_20140613_153221808.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/03_img_20140613_192432456.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/04_img_20140614_231748216.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/05_img_20140614_231754473.midi.jpg)
+
+Polygon mesh of double curved surface cut of foam and plastered. Any -smooth- mesh can in principle be cut, put together and plastered using this method.
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/06_img_20140614_231858078.midi.jpg)
 
-Polygon mesh of double curved surface cut of foam and plastered
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/00_2.midi.jpg)
 
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/01_wireframe.midi.jpg)
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/02_img_20140613_153221808.midi.jpg)
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/03_img_20140613_192432456.midi.jpg)
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/04_img_20140614_231748216.midi.jpg)
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-06-14/05_img_20140614_231754473.midi.jpg)
  		 	   		  
