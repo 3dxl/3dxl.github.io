@@ -12,10 +12,17 @@ thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/
 
 ## 15:42 Sculpture
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/00_head.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/01_img_2000.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/02_img_4517.midi.jpg)
+
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/01_img_2000.midi.jpg)
+
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/03_img_4531.midi.jpg)
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/04_img_4548_a.midi.jpg)
+
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/05_img_4565.midi.jpg)
 
  		 	   		  
