@@ -7,7 +7,7 @@ categories:
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/00_head.mini.jpg"
-gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/04_img_4548_a.midi.jpg)"
+gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/04_img_4548_a.midi.jpg"
 
 ---
 
@@ -25,16 +25,5 @@ gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/20
 
 
 
- 		 	   		  
-
----
-
-## 20:48 Branching Form
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/06_img_4488.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/07_img_4491.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/08_img_4493.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/09_img_4494.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/10_img_4496.midi.jpg)
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/11_img_4503.midi.jpg)
-
+ 		 	   		
  		 	   		  
