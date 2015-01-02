@@ -7,6 +7,7 @@ categories:
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/12_img_8757.midi.jpg"
+gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/12_img_8757.midi.jpg"
 
 ---
 The construction of an office unit made of a free form LED matrix
