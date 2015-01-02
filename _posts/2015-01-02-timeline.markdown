@@ -7,7 +7,7 @@ categories:
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-02/00_img_4493.mini.jpg"
-gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-02/01_img_4494.midi.jpg"
+gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-02/02_img_4496.midi.jpg"
 
 ---
 
