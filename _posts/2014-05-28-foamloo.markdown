@@ -7,7 +7,6 @@ categories:
 authors:
   - Arnoud Herder
 thumbnail: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/34_img_20140524_162027770.mini.jpg"
-gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2014-05-28/34_img_20140524_162027770.midi.jpg"
 
 ---
 Pilot project for architectural free form foam structures with reinforced plaster finish 		 	   		   		 	   		   		 	   		  
