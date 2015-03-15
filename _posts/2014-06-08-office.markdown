@@ -12,9 +12,7 @@ gallery: "https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/20
 ---
 The construction of an office unit made of a free form LED matrix
 
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-02/07_2.midi.jpg)
-
-![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-02/06_1.midi.jpg)
+![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-02-28/00_green01.midi.jpg)
 
 ![](https://raw.githubusercontent.com/3dxl/3dxl.github.io/master/photos/2015-01-01/15_img_8870.midi.jpg)	   		
  		 	   	
